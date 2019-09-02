@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">theHeroProject</string>
+    <string name="title">Aplicaciones moviles y sistemas telematicos</string>
+    <string name="subtitle">Examen Practico</string>
+    <string name="names">Jimmy Gilces Vargas -- Aaron Arguello</string>
+    <string name="button_et">Buscar Heroes</string>
+    <string name="hint">Busqueda por nombres</string>
+</resources>
